@@ -1,0 +1,17 @@
+name: PlockBot
+version: '${project.version}'
+main: xyz.plocki.plockbot.PlockBot
+api-version: 1.17
+prefix: PB
+load: STARTUP
+author: plocki
+description: AntiBot. Just a AntiBot.
+website: https://plocki.xyz
+commands:
+  verbose:
+  pb:
+  plockbot:
+  pbw:
+  plockbotwhitelist:
+  bips:
+  blockedips:
